@@ -1,6 +1,7 @@
 import SelectColorButton from "./SelectColorButton"
 
 const ColorPicker = () => {
+  
   return (
     <div>
       <div className="mx-auto my-4 flex justify-center space-x-4">
